@@ -12,7 +12,7 @@ Este é um projeto simples e rapido, com o intuito de criar menus de contexto pa
 - Em Icon, coloque o caminho onde se encontra o icone ou executavel.
 - Na ultima linha, coloque o diretorio do arquivo seguido do parametro `%v`.
 
-### Informtivo:
+### Informativo:
 - O parametro `%v`, serve pra indicar ao programa o argumento referente ao arquivo que será levado para dentro da aplicação.
 - Você pode usar tanto bat, quanto executveis e até mesmo binarios ou comandos.
 - O uso de variaveis de ambiente como `%programfiles%`, funciona como valor. 
