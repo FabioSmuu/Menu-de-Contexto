@@ -1,0 +1,9 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\directory\background\shell\NOMEdoCONTEXTO]
+@="Titulo do contexto"
+"Icon"="C:\\Program Files\\...\\diretorio do icone.exe"
+
+[HKEY_CLASSES_ROOT\directory\background\shell\NOMEdoCONTEXTO\command]
+@="\"C:\\Program Files\\..executvel.exe\" \"--parametros %v\""
+
