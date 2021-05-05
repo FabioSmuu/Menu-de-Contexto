@@ -6,6 +6,10 @@ Este é um projeto simples e rápido, com o intuito de criar menus de contexto p
 
 > Verifique também meu repositório para a criação de uma [extensão](https://github.com/FabioSmuu/.Deeh) com menu de contexto.
 
+Imagem de exemplo:
+
+![N|Solid](https://cdn.discordapp.com/attachments/837842973537730580/839611751871807498/unknown.png)
+
 ### Oque alterar:
 - Procure por `NOMEdoCONTEXTO` (existe 2 em cada arquivo)
 - Altere ou remova `--parametros` do diretório, pois, se refere aos parâmetros levado para a aplicação.
