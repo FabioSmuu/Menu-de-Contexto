@@ -4,6 +4,8 @@
 
 Este é um projeto simples e rapido, com o intuito de criar menus de contexto para rodar um programa ou arquivo em lote.
 
+> Verifique também meu repositorio para a crição de uma [extensão](https://github.com/FabioSmuu/.Deeh) com menu de contexto.
+
 ### Oque alterar:
 - Procure por `NOMEdoCONTEXTO` (existe 2 em cada arquivo)
 - Altere ou remova `--parametros` do diretorio, pois se refere aos prametros levado para a aplicação.
@@ -18,6 +20,7 @@ Este é um projeto simples e rapido, com o intuito de criar menus de contexto pa
 
 Descrição dos arquivos:
 - [Background](/Background.reg) Cria um menu de contexto na desktop e na background de pastas.
-- 
+- [Directory](/Directory.reg) Cria um menu de contexto em pastas e diretorios. 
+- [File](File.reg) Cria um menu de contexto em todos os arquivos com e sem extenções.
 
 **Obrigado pela sua atenção!**
