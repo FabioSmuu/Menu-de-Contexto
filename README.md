@@ -2,25 +2,25 @@
 
 [![N|Solid](https://cdn.discordapp.com/attachments/631607183301148672/724397007170568313/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=fabinhoec2210@gmail.com&item_name=F%C3%A1bio&currency_code=BRL)  [![N|Solid](https://cdn.discordapp.com/attachments/631607183301148672/724397005543178270/picpay.png)](https://app.picpay.com/user/smuu)
 
-Este é um projeto simples e rapido, com o intuito de criar menus de contexto para rodar um programa ou arquivo em lote.
+Este é um projeto simples e rápido, com o intuito de criar menus de contexto para rodar um programa ou arquivo em lote.
 
-> Verifique também meu repositorio para a crição de uma [extensão](https://github.com/FabioSmuu/.Deeh) com menu de contexto.
+> Verifique também meu repositório para a criação de uma [extensão](https://github.com/FabioSmuu/.Deeh) com menu de contexto.
 
 ### Oque alterar:
-- Procure por `NOMEdoCONTEXTO` (existe 2 em cada arquivo)
-- Altere ou remova `--parametros` do diretorio, pois se refere aos prametros levado para a aplicação.
-- Em Icon, coloque o caminho onde se encontra o icone ou executavel.
-- Na ultima linha, coloque o diretorio do arquivo seguido do parametro `%v`.
+- Procure por 'NOMEdoCONTEXTO' (existe 2 em cada arquivo)
+- Altere ou remova '--parametros' do diretório, pois, se refere aos parâmetros levado para a aplicação.
+- Em Icon, coloque o caminho onde se encontra o ícone ou executável.
+- Na última linha, coloque o diretório do arquivo seguido do parâmetro '%v'.
 
 ### Informativo:
-- O parametro `%v`, serve pra indicar ao programa o argumento referente ao arquivo que será levado para dentro da aplicação.
-- Você pode usar tanto bat, quanto executveis e até mesmo binarios ou comandos.
-- O uso de variaveis de ambiente como `%programfiles%`, funciona como valor. 
+- O parâmetro '%v', serve pra indicar ao programa o argumento referente ao arquivo que será levado para dentro da aplicação.
+- Você pode usar tanto bat, quanto executeis e até mesmo binários ou comandos.
+- O uso de variáveis de ambiente como '%programfiles%', funciona como valor.
 
 
 Descrição dos arquivos:
 - [Background](/Background.reg) Cria um menu de contexto na desktop e na background de pastas.
-- [Directory](/Directory.reg) Cria um menu de contexto em pastas e diretorios. 
-- [File](File.reg) Cria um menu de contexto em todos os arquivos com e sem extenções.
+- [Directory](/Directory.reg) Cria um menu de contexto em pastas e diretórios.
+- [File](File.reg) Cria um menu de contexto em todos os arquivos com e sem extensões.
 
 **Obrigado pela sua atenção!**
