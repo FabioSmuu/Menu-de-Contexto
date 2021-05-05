@@ -16,7 +16,7 @@ Este é um projeto simples e rapido, com o intuito de criar menus de contexto pa
 - O uso de variaveis de ambiente como `%programfiles%`, funciona como valor. 
 
 
-Arquivos do [menu de contexto](/Listagem%20de%20Projeto):
-- [Documents/projeto/projeto.bat](/Listagem%20de%20Projeto/projeto.bat)
+Descrição dos arquivos:
+- [nbl](/Contexto%20em%20Desktop%20e%20Pastas.reg)
 
 **Obrigado pela sua atenção!**
