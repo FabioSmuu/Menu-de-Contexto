@@ -17,6 +17,7 @@ Este é um projeto simples e rapido, com o intuito de criar menus de contexto pa
 
 
 Descrição dos arquivos:
-- [nbl](/Contexto%20em%20Desktop%20e%20Pastas.reg)
+- [Background](/Background.reg) Cria um menu de contexto na desktop e na background de pastas.
+- 
 
 **Obrigado pela sua atenção!**
