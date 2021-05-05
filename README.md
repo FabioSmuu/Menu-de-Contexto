@@ -4,10 +4,17 @@
 
 Este é um projeto simples e rapido, com o intuito de criar menus de contexto para rodar um programa ou arquivo em lote.
 
-### Diretorio de arquivos não listados:
-Arquivos da [extenção](/extenção/extensão%20completa.reg):
-- Desktop/DeehLeh/DeehLeh.exe
-- Desktop/DeehLeh/deeh.ico
+### Oque alterar:
+- Procure por `NOMEdoCONTEXTO` (existe 2 em cada arquivo)
+- Altere ou remova `--parametros` do diretorio, pois se refere aos prametros levado para a aplicação.
+- Em Icon, coloque o caminho onde se encontra o icone ou executavel.
+- Na ultima linha, coloque o diretorio do arquivo seguido do parametro `%v`.
+
+### Informtivo:
+- O parametro `%v`, serve pra indicar ao programa o argumento referente ao arquivo que será levado para dentro da aplicação.
+- Você pode usar tanto bat, quanto executveis e até mesmo binarios ou comandos.
+- O uso de variaveis de ambiente como `%programfiles%`, funciona como valor. 
+
 
 Arquivos do [menu de contexto](/Listagem%20de%20Projeto):
 - [Documents/projeto/projeto.bat](/Listagem%20de%20Projeto/projeto.bat)
